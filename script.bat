@@ -185,6 +185,7 @@ echo INSTRUCTIONS:
 echo Move the 'miner.bat' configuration file to the cpuminer-opt folder, otherwise the mining software won't start.
 echo If you want to have the configuration file in a different location, then create a shortcut and keep the original file in the cpuminer-opt folder.
 echo You can rename the configuration file to anything you like.
+echo If you want to solo-mine, make sure your wallet is running and unlocked.
 echo Run the configuration file to start mining.
 echo.
 echo.
